@@ -19,20 +19,19 @@
 
 ### 🌐 Reach Me:
 
-<a href="https://www.linkedin.com/in/shivam-kumar-b67984348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/framefusion_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:shivamraj0k0r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
 ## 📊 GitHub Stats:
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiivaam7\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiivaam7\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=\&layout=compact\&theme=radical)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiivaam7&theme=tokyonight" alt="GitHub Streak" />
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight" alt="GitHub Streak" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shiivaam7\&theme=dracula\&no-frame=true\&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=\&theme=dracula\&no-frame=true\&column=4)
 
 ---
 
@@ -48,27 +47,13 @@
 
 ### 📌 Popular Repositories:
 
-<p>
-  <a href="https://github.com/Shiivaam7/coder-of-delhi-1st-project-using-python">
-    <img src="https://img.shields.io/badge/Repo%201-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shiivaam7/central-Dao-Token">
-    <img src="https://img.shields.io/badge/Repo%202-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shiivaam7/alram-clock">
-    <img src="https://img.shields.io/badge/Repo%203-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+*No repositories added yet.*
 
 ---
 
 ### ⚡ Recent Activity:
 
-<!--START_SECTION:activity-->
-
-* 🚀 **Pushed** [**numpy-basics**](https://github.com/Shiivaam7/numpy-basics)
-
-<!--END_SECTION:activity-->
+*Recent activity will appear here once you start pushing code.*
 
 ---
 
