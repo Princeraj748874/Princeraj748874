@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Prince Raj
 
-<!--
-**Princeraj748874/Princeraj748874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 B.Tech AI & ML student at **SAGE UNIVERSITY**
+🌱 Currently learning Artificial Intelligence & Machine Learning
+👯 Looking to collaborate on impactful & challenging projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+### 🌐 Reach Me:
+
+<a href="https://www.linkedin.com/in/shivam-kumar-b67984348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/framefusion_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:shivamraj0k0r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+---
+
+## 📊 GitHub Stats:
+
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiivaam7\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiivaam7\&layout=compact\&theme=radical)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiivaam7&theme=tokyonight" alt="GitHub Streak" />
+<br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shiivaam7\&theme=dracula\&no-frame=true\&column=4)
+
+---
+
+### 🛠 Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <!-- Tools updated as requested -->
+</p>
+
+---
+
+### 📌 Popular Repositories:
+
+<p>
+  <a href="https://github.com/Shiivaam7/coder-of-delhi-1st-project-using-python">
+    <img src="https://img.shields.io/badge/Repo%201-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shiivaam7/central-Dao-Token">
+    <img src="https://img.shields.io/badge/Repo%202-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shiivaam7/alram-clock">
+    <img src="https://img.shields.io/badge/Repo%203-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Recent Activity:
+
+<!--START_SECTION:activity-->
+
+* 🚀 **Pushed** [**numpy-basics**](https://github.com/Shiivaam7/numpy-basics)
+
+<!--END_SECTION:activity-->
+
+---
+
+### ✨ Quote of the Day:
+
+> "Strive for progress, not perfection." 🚀
